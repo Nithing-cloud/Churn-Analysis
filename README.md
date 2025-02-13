@@ -1,14 +1,14 @@
 # Churn-Analysis
 This churn analysis identifies key factors affecting customer retention, including contracts, payments, and service usage. Insights help develop strategies to reduce churn, improve satisfaction, and boost revenue.
 
-[Churn Dataset](https://drive.google.com/file/d/1iPqAGso8tA1GmkblGsO4jq-YC67Wvw9c/view?usp=drive_link)
+[Churn Dataset](Churn-Dataset.xlsx)
 
 ---
-![DashboardOverview]()
+![DashboardOverview](https://github.com/Nithing-cloud/Churn-Analysis/blob/main/1.PNG?raw=true)
+![](https://github.com/Nithing-cloud/Churn-Analysis/blob/main/2.png?raw=true)
 
 
-
-## [LIVE DASHBOARD]([https://app.powerbi.com/view?r=eyJrIjoiY2U4MGY1ZDUtZmYwZS00YjBlLWFmNmQtYjE0ZWI5NTA1MWE5IiwidCI6IjFjNzJhMjQ3LWQwZTktNDc2ZC04ZGY2LWY2NDExY2Y3NmM2ZSJ9])  << Here
+## [LIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiY2U4MGY1ZDUtZmYwZS00YjBlLWFmNmQtYjE0ZWI5NTA1MWE5IiwidCI6IjFjNzJhMjQ3LWQwZTktNDc2ZC04ZGY2LWY2NDExY2Y3NmM2ZSJ9)  << Here
 
 ****
 ### **Overview**  
@@ -35,6 +35,7 @@ This analysis examines customer churn in the Jio AirFiber service, identifying k
 5. **Insights Generation**: Actionable insights were derived to help improve retention strategies.  
 
 #
+![Insights & Results](https://github.com/Nithing-cloud/Churn-Analysis/blob/main/3.PNG?raw=true)
 ### **Insights & Results**  
 #### **Churn Rate & Impact**  
 - The **churn rate is 26.54%**, indicating a high level of customer loss affecting revenue.  
@@ -49,7 +50,8 @@ This analysis examines customer churn in the Jio AirFiber service, identifying k
 - **44% of customers use streaming services**, which could be leveraged to offer bundled retention plans.  
 - **Senior citizens (25%) and single customers (36%) churn more**, indicating a need for targeted engagement strategies.  
 
-****
-
+#
 ### **Conclusion**  
 This churn analysis provides valuable insights into customer behavior, service preferences, and contract structures that impact retention. Strategies such as incentivizing long-term contracts, improving service quality, enhancing digital payment experiences, and introducing targeted retention programs can help reduce churn and increase customer satisfaction.
+
+****
