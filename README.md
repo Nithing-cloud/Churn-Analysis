@@ -1,6 +1,15 @@
 # Churn-Analysis
 This churn analysis identifies key factors affecting customer retention, including contracts, payments, and service usage. Insights help develop strategies to reduce churn, improve satisfaction, and boost revenue.
 
+[Churn Dataset](https://drive.google.com/file/d/1iPqAGso8tA1GmkblGsO4jq-YC67Wvw9c/view?usp=drive_link)
+
+---
+![DashboardOverview]()
+
+
+
+## [LIVE DASHBOARD]([https://app.powerbi.com/view?r=eyJrIjoiY2U4MGY1ZDUtZmYwZS00YjBlLWFmNmQtYjE0ZWI5NTA1MWE5IiwidCI6IjFjNzJhMjQ3LWQwZTktNDc2ZC04ZGY2LWY2NDExY2Y3NmM2ZSJ9])  << Here
+
 ****
 ### **Overview**  
 This analysis examines customer churn in the Jio AirFiber service, identifying key factors that contribute to customer attrition. The insights gained help in understanding user demographics, contract preferences, payment methods, and service usage patterns. These findings can assist in developing better retention strategies and improving customer satisfaction.  
